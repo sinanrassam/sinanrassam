@@ -1,4 +1,4 @@
-### :wave: Hi there...
+### 👋 Hi there...
 
 My name is [Sinan Rassam](https://sinanrassam.github.io) and welcome to my GitHub profile :octocat:, I am a **Software Engineer** and I am interested in working on software projects and tools that will be usefull to a large number of people.
 
@@ -7,9 +7,10 @@ My name is [Sinan Rassam](https://sinanrassam.github.io) and welcome to my GitHu
   <a href="https://www.linkedin.com/in/sinanrassam/" target="_blank"><img height="35" src="assets/linkedin.svg"></a>
 </p>
 
-:books: Final year Computer & Mobile Systems Engineering Student @ [Auckland University of Technology](https://aut.ac.nz).<br />
-:briefcase: Intern @ [Les Mills International](https://www.lesmills.com/).<br />
-:computer: Java, Web Development, HTML, CSS, JavaScript, PHP, MySQL & more.<br />
+📖 Final year Computer & Mobile Systems Engineering Student @ [Auckland University of Technology](https://aut.ac.nz).<br />
+💼 Intern @ [Les Mills International](https://www.lesmills.com/).<br />
+💼 Student Peer Mentor @ [Auckland University of Technology](https://aut.ac.nz).<br />
+💻 Java, Web Development, HTML, CSS, JavaScript, PHP, MySQL & more.<br />
 
 <!--
 **sinanrassam/sinanrassam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
