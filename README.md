@@ -2,6 +2,11 @@
 
 My name is [Sinan Rassam](https://sinanrassam.github.io) and welcome to my GitHub profile :octocat:, I am a **Software Engineer** and I am interested in working on software projects and tools that will be usefull to a large number of people.
 
+<p align="center">
+  <a href="https://sinanrassam.github.io" target="_blank"><img height="35" src="assets/globe.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sinanrassam/" target="_blank"><img height="35" src="assets/linkedin.svg"></a>
+</p>
+
 :books: Final year Computer & Mobile Systems Engineering Student @ [Auckland University of Technology](https://aut.ac.nz).<br />
 :briefcase: Intern @ [Les Mills International](https://www.lesmills.com/).<br />
 :computer: Java, Web Development, HTML, CSS, JavaScript, PHP, MySQL & more.<br />
