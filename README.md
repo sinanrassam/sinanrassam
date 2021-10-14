@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sinanrassam/sinanrassam/dev/assets/banner.gif">
+</div>
+
 ### 👋 Hi there...
 
 My name is [Sinan Rassam](https://sinanrassam.github.io) and welcome to my GitHub profile :octocat:, I am a **Computer & Mobile Systems Engineer** and I am interested in working on software projects and tools that will be usefull to a large number of people.
