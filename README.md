@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sinanrassam/sinanrassam/dev/assets/banner.gif">
+  <a href="https://sinanrassam.github.io">
+    <img src="https://raw.githubusercontent.com/sinanrassam/sinanrassam/dev/assets/banner.gif">
+  </a>
 </div>
 
 ### 👋 Hi there...
