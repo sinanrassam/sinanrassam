@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Banner](https://raw.githubusercontent.com/sinanrassam/sinanrassam/dev/assets/banner.gif)](https://www.linkedin.com/in/sinanrassam/)
+  [<img src="https://raw.githubusercontent.com/sinanrassam/sinanrassam/dev/assets/banner.gif" height="400px">](https://sinanrassam.github.io)
 
 </div>
 
