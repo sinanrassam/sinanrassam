@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://sinanrassam.github.io">
-    <img src="https://raw.githubusercontent.com/sinanrassam/sinanrassam/dev/assets/banner.gif">
-  </a>
+
+  [![Banner](https://raw.githubusercontent.com/sinanrassam/sinanrassam/dev/assets/banner.gif)](https://www.linkedin.com/in/sinanrassam/)
+
 </div>
 
 ### 👋 Hi there...
@@ -19,6 +19,12 @@ My name is [Sinan Rassam](https://sinanrassam.github.io) and welcome to my GitHu
 💼 Software Engineer @ [Les Mills International](https://www.lesmills.com/).<br />
 💼 Freelance Software Developer @ [Babylon Charitable Trust](https://babylon.org.nz/), [Superior Shuttle](https://superiorshuttle.co.nz/), [Kiwi Bright](https://brighthousewash.co.nz/) ...etc.<br />
 💻 Java, Web Development, HTML, CSS, JavaScript, PHP, MySQL, Android Development & more.<br />
+
+<div align="center">
+
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinanrassam&count_private=true&show_icons=true&theme=dark)](https://sinanrassam.github.io)
+
+</div>
 
 <!--
 **sinanrassam/sinanrassam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
