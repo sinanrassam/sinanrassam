@@ -9,7 +9,7 @@ My name is [Sinan Rassam](https://sinanrassam.github.io) and welcome to my GitHu
 
 📖 Computer & Mobile Systems Engineering graduate from [Auckland University of Technology](https://aut.ac.nz).<br />
 💼 Software Engineer @ [Les Mills International](https://www.lesmills.com/).<br />
-💼 Freelance Software Developer @ [Babylon Charitable Trust](https://babylon.org.nz/), [Superior Shuttle](https://superiorshuttle.co.nz/), [Kiwi Bright](https://brighthousewash.co.nz/) ...etc.<br />
+💼 Freelance Software Developer @ [Babylon Charitable Trust](https://babylon.org.nz/), [Kiwi Bright](https://brighthousewash.co.nz/) ...etc.<br />
 💻 Java, Web Development, HTML, CSS, JavaScript, PHP, MySQL, Android Development & more.<br />
 
 <!--
