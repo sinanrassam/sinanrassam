@@ -1,28 +1,9 @@
-### 👋 Hi there...
+### Hi, I'm Sinan 👋
 
-My name is [Sinan Rassam](https://sinanrassam.github.io) and welcome to my GitHub profile :octocat:, I am a **Computer & Mobile Systems Engineer** and I am interested in working on software projects and tools that will be usefull to a large number of people.
+Senior Software Engineer at [Les Mills International](https://www.lesmills.com/) in Auckland, New Zealand. I build and run the backend services and React frontends behind Les Mills+, a globally distributed video streaming platform, and I'm on call for the services I ship.
 
-<p align="center">
-  <a href="https://sinanrassam.github.io" target="_blank"><img height="35" src="https://raw.githubusercontent.com/sinanrassam/sinanrassam/master/assets/globe.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sinanrassam/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/sinanrassam/sinanrassam/master/assets/linkedin.svg"></a>
-</p>
+**Day to day:** TypeScript, Node.js, React, GraphQL (AppSync), AWS (Lambda, API Gateway, SNS/SQS, DynamoDB), event-driven microservices, Playwright, Datadog and PagerDuty.
 
-📖 Computer & Mobile Systems Engineering graduate from [Auckland University of Technology](https://aut.ac.nz).<br />
-💼 Software Engineer @ [Les Mills International](https://www.lesmills.com/).<br />
-💼 Freelance Software Developer @ [Babylon Charitable Trust](https://babylon.org.nz/), [Kiwi Bright](https://brighthousewash.co.nz/) ...etc.<br />
-💻 Java, Web Development, HTML, CSS, JavaScript, PHP, MySQL, Android Development & more.<br />
+**On the side:** since 2015 I've built web apps for small businesses and charities through Nexlogic, including [Babylon Charitable Trust](https://babylon.org.nz/). I also run a private homelab, with its infrastructure written as code in TypeScript and its services in Docker.
 
-<!--
-**sinanrassam/sinanrassam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/sinanrassam/)
