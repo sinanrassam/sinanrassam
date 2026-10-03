@@ -1,6 +1,6 @@
 ### Hi, I'm Sinan 👋
 
-Senior Software Engineer at [LesMills International](https://www.lesmills.com/) in Auckland, New Zealand. I build and run the backend services and React frontends behind LESMILLS+, LESMILLS Instructor and LESMILLS Content, used by members and instructors worldwide, and I'm on call for the services I ship.
+Senior Software Engineer at [LesMills International](https://www.lesmills.com/) in Auckland, New Zealand. I've built and run the backend services and React frontends behind LESMILLS+, LESMILLS Instructor and LESMILLS Content, used by members and instructors worldwide, and I'm on call for the services I ship.
 
 **Day to day:** TypeScript, Node.js, React, GraphQL (AppSync), AWS (Lambda, API Gateway, SNS/SQS, DynamoDB), event-driven microservices, Playwright, Datadog and PagerDuty.
 
